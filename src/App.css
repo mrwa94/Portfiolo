@@ -1,0 +1,90 @@
+:root{
+  
+ --primary-orange: #eb9e44
+
+
+}
+:root{
+ --primary-tea: #c6d1d1
+
+}
+
+* { 
+ 
+ 
+  }
+
+.body{
+
+ background-color: #c6d1d1 ;
+ 
+
+}
+/******************* NavBar *****************************/
+.greenColor {
+
+  background-color: #718e8c;
+
+ }
+ .navbar-nav > li > a {
+
+color: black !important;
+
+ }
+ 
+ .logo{
+  
+  max-width: 35%;
+   height: auto;
+
+ }
+
+ .navbar-nav ul >  li > a.active  {
+ border-bottom: 0.1875rem solid var(--primary-orange);
+ margin: 20px;
+
+ }
+
+ 
+
+ /****************  Cards   ********************/
+  .allCard{
+
+  background-color: #c6d1d1  ;
+  
+ 
+  }
+
+  
+
+ 
+.padding{
+  
+  padding: 0.025rem;
+
+}
+/*********  About section       ************/
+.sec{
+
+  border-top: 0.1875rem solid var(--primary-orange);
+  margin-bottom:20rem ;
+ 
+
+
+}
+
+ /***************** footer  **********************/
+
+ .img-contact{
+  height: 60px;
+  padding: 0.2rem;
+
+ }
+ .box{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+ }
