@@ -1,11 +1,11 @@
 import React from 'react'
 import { Card , CardGroup , Image} from 'react-bootstrap'
-import img1 from '../food.JPG'
-import img2 from '../details.JPG'
-import img3 from '../still_life.JPG'
-import img4 from '../new_born.JPG'
-import img5 from '../portrait.JPG'
-import img6 from '../flower.JPG'
+import img1 from '../Component/Assets/food.JPG'
+import img2 from '../Component/Assets/details.JPG'
+import img3 from '../Component/Assets/still_life.JPG'
+import img4 from '../Component/Assets/new_born.JPG'
+import img5 from '../Component/Assets/portrait.JPG'
+import img6 from '../Component/Assets/flower.JPG'
 
 const Project = () => {
   return (

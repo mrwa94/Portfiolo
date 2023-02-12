@@ -1,6 +1,6 @@
 
 import './App.css';
-import logo from "./logo.PNG";
+import logo from "./Component/Assets/logo.PNG";
 import "bootstrap/dist/css/bootstrap.min.css";
 import {  BrowserRouter } from 'react-router-dom';
 import { HashLink as Link } from 'react-router-hash-link';
@@ -21,17 +21,17 @@ function App() {
     <div className="navbar-nav" id="navbarSupportedContent">
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
         <li className="nav-item">
-        <Link   to ='#about_id' className='nav-link active' >ABOUT ME </Link>
+        <Link   to ='#about_id' className='nav-link active fw-bold' >ABOUT ME </Link>
         </li>
         <li className="nav-item">
         
-          <Link   to ='#id_projects' className='nav-link active' >PROJECTS </Link>
+          <Link   to ='#id_projects ' className='nav-link active fw-bold' >PROJECTS </Link>
         
         </li>
 
         <li className="nav-item">
     
-          <Link to ='#footer_id'   className='nav-link active'>CONTACT ME  </Link>
+          <Link to ='#footer_id'   className='nav-link active fw-bold'>CONTACT ME  </Link>
         
          
        

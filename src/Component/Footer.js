@@ -1,6 +1,7 @@
 import React from 'react'
-import image from './linkedin.png'
-import image2 from './instagram.png'
+import image from '../Component/Assets/linkedin.png';
+import image2 from '../Component/Assets/instagram.png';
+import image3 from '../Component/Assets/behance.png';
 const Footer = () => {
   return (
   
@@ -14,6 +15,9 @@ const Footer = () => {
      <img  className='   img-contact' src={image} alt= "linkedin"></img></a>
      <a   href="https://www.instagram.com/mrwaff4/">
      <img  className=' img-contact' src={image2} alt= "instagram"></img></a>
+
+     <a href='https://www.behance.net/mrwaphotogr'>
+     <img  className=' img-contact' src={image3} alt= "instagram"></img></a>
 
 
 </div>
