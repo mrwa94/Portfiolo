@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31c0695a.css",
+    "main.js": "/static/js/main.0dd947d0.js",
+    "static/js/787.9a4382c1.chunk.js": "/static/js/787.9a4382c1.chunk.js",
+    "static/media/food.JPG": "/static/media/food.ae1dbef951b9d244463e.JPG",
+    "static/media/still_life.JPG": "/static/media/still_life.75c9d5c899f1a6427ca0.JPG",
+    "static/media/details.JPG": "/static/media/details.28a99c953746f77b67d2.JPG",
+    "static/media/new_born.JPG": "/static/media/new_born.290637104eece080475f.JPG",
+    "static/media/portrait.JPG": "/static/media/portrait.722014cc7ad4b4eeea9d.JPG",
+    "static/media/flower.JPG": "/static/media/flower.f5c078aa1aa49b47337d.JPG",
+    "static/media/logo.PNG": "/static/media/logo.0a06b5db2d3d136be69e.PNG",
+    "static/media/instagram.png": "/static/media/instagram.79535458a8a6d88f81d4.png",
+    "static/media/linkedin.png": "/static/media/linkedin.6892b3ae328c7a1e055f.png",
+    "index.html": "/index.html",
+    "main.31c0695a.css.map": "/static/css/main.31c0695a.css.map",
+    "main.0dd947d0.js.map": "/static/js/main.0dd947d0.js.map",
+    "787.9a4382c1.chunk.js.map": "/static/js/787.9a4382c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31c0695a.css",
+    "static/js/main.0dd947d0.js"
+  ]
+}
