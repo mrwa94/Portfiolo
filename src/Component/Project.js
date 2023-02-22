@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card , CardGroup , Image} from 'react-bootstrap'
+import { Card , CardGroup} from 'react-bootstrap'
 import img1 from '../Component/Assets/food.JPG'
 import img2 from '../Component/Assets/details.JPG'
 import img3 from '../Component/Assets/still_life.JPG'

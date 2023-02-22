@@ -15,7 +15,7 @@ function App() {
 <BrowserRouter>
 <nav className="navbar navbar-expand-lg navbar-light greenColor   fw-lighter ">
   <div className="container ">
-    <a className="navbar-brand"> <img className='logo'  src={logo} alt= "logo"></img></a>
+    <a className="navbar-brand" href='#about_id'> <img className='logo'  src={logo} alt= "logo"></img></a>
   
     
     <div className="navbar-nav" id="navbarSupportedContent">
