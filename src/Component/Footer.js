@@ -7,7 +7,7 @@ const Footer = () => {
   
   <section className=' text-center   ' id='footer_id'>
 
-<h1  className='fw-lighter  ' >CONTACT ME</h1>
+<h1  className='fw-lighter footer ' >CONTACT ME</h1>
 
 <div className='box '>
 

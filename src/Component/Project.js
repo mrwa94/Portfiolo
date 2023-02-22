@@ -10,7 +10,7 @@ import img6 from '../Component/Assets/flower.JPG'
 const Project = () => {
   return (
 
-     <section className='my-4 py-4 mx-4 px-4 allCard ' id ='id_projects' >
+     <section className='my-4 py-4 mx-4 px-4 allCard ' id ='#id_projects' >
        <h1  className='fw-lighter  text-center ' >PROJECTS</h1>
 
 <CardGroup className='my-4  mx-4   '>
