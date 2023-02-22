@@ -127,4 +127,18 @@ display:contents;
   margin-top: -2px;
  }
 
+ .navbar-brand{
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+ 
+ }
+ .logo{
+  width: 150rem !important; 
+ }
+
+ .nav-item{
+  display: none !important;
+ 
+ }
 }
